@@ -111,7 +111,7 @@
       "title": "ShiroRikkaのAI"
     },
     {
-      "url": "https://status.kasuie.cc/status",
+      "url": "https://shirorikka-uptime-kuma.koyeb.app/status/all",
       "desc": "服务程序监控",
       "icon": "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/favicon.2ks2py7k3h.webp",
       "title": "监控服务"
@@ -133,11 +133,6 @@
       "desc": "个人主页",
       "icon": "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/favicon.2ks2py7k3h.webp",
       "title": "ShiroRikkaの主页"
-    },
-    {
-      "desc": "阿巴阿巴...",
-      "icon": "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/favicon.2ks2py7k3h.webp",
-      "title": "杂七杂八"
     }
   ],
   "sitesConfig": {
@@ -160,7 +155,7 @@
       {
         "icon": "",
         "title": "JavaScript/TypeScript",
-        "value": "70"
+        "value": "40"
       },
       {
         "icon": "",
