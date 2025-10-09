@@ -16,12 +16,12 @@
   },
   "bgConfig": {
     "bg": [
-      "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/about/personalitie.4qrkvlqnd9.webp",
       "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/bg_rikka.3yepe4900b.webp"
     ],
     "mbg": [
       "https://t.alcy.cc/mp",
-      "https://t.alcy.cc/mp"
+      "https://api.oha.li/img/?type=mobile",
+      "https://www.loliapi.com/acg/pe/"
 
     ],
     "blur": "sm",
