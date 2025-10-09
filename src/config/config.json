@@ -16,7 +16,12 @@
   },
   "bgConfig": {
     "bg": [
-      "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/bg_rikka.3yepe4900b.webp"
+      "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/bg_rikka.3yepe4900b.webp",
+      "https://www.loliapi.com/acg/pc/",
+      "https://t.alcy.cc/pc",
+      "https://t.alcy.cc/moe",
+      "https://t.alcy.cc/ys",
+      "https://t.alcy.cc/acg"
     ],
     "mbg": [
       "https://t.alcy.cc/mp",
@@ -111,25 +116,25 @@
     {
       "url": "https://newapi.shirorikka.dpdns.org",
       "desc": "NewAPI",
-      "icon": "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/favicon.2ks2py7k3h.webp",
+      "icon": "https://www.loliapi.com/acg/pp/",
       "title": "ShiroRikkaのAI"
     },
     {
       "url": "https://shirorikka-uptime-kuma.koyeb.app/status/all",
       "desc": "服务程序监控",
-      "icon": "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/favicon.2ks2py7k3h.webp",
+      "icon": "https://t.alcy.cc/tx",
       "title": "监控服务"
     },
     {
       "url": "https://lunatv.shirorikka.dpdns.org",
       "desc": "影视站点",
-      "icon": "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/favicon.2ks2py7k3h.webp",
+      "icon": "https://www.loliapi.com/acg/pp/",
       "title": "ShiroRikkaのLunaTV"
     },
     {
       "url": "https://fnos.shirorikka.dpdns.org",
       "desc": "网络附加存储",
-      "icon": "https://cdn.mengze.vip/gh/ShiroRikka/picx-images-hosting@master/source/images/favicon.2ks2py7k3h.webp",
+      "icon": "https://t.alcy.cc/tx",
       "title": "ShiroRikkaのfnos"
     },
     {
