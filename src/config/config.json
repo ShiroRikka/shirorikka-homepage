@@ -116,7 +116,7 @@
       "url": "https://status.shirorikka.dpdns.org",
       "desc": "服务程序监控",
       "icon": "https://t.alcy.cc/tx",
-      "title": "监控服务"
+      "title": "ShiroRikkaのStatus"
     },
     {
       "url": "https://lunatv.shirorikka.dpdns.org",
@@ -128,7 +128,7 @@
       "url": "https://fnos.shirorikka.dpdns.org",
       "desc": "网络附加存储",
       "icon": "https://t.alcy.cc/tx",
-      "title": "ShiroRikkaのfnos"
+      "title": "ShiroRikkaのfnOS"
     },
     {
       "url": "https://shirorikka.dpdns.org",
