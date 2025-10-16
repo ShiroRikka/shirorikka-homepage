@@ -21,7 +21,6 @@
       "https://t.alcy.cc/pc",
       "https://t.alcy.cc/moe",
       "https://t.alcy.cc/ys",
-      "https://t.alcy.cc/acg"
     ],
     "mbg": [
       "https://t.alcy.cc/mp",
@@ -74,12 +73,6 @@
       "icon": "telegram",
       "color": "#1da1f2",
       "title": "telegram"
-    },
-    {
-      "url": "https://github.com/ShiroRikka",
-      "icon": "github",
-      "color": "#000000",
-      "title": "github"
     },
     {
       "url": "https://twitter.com/ShiroRikka0",
