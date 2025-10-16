@@ -161,17 +161,22 @@
       },
       {
         "icon": "",
-        "title": "Tailwind CSS",
-        "value": "50"
-      },
-      {
-        "icon": "",
         "title": "React",
         "value": "35"
       },
       {
         "title": "Next.js",
         "value": "35"
+      },
+      {
+        "icon": "",
+        "title": "Tailwind CSS",
+        "value": "50"
+      },
+      {
+        "icon": "",
+        "title": "Python",
+        "value": "80"
       },
       {
         "title": "Linux",
@@ -184,11 +189,6 @@
       {
         "title": "Docker",
         "value": "70"
-      },
-      {
-        "icon": "",
-        "title": "Python",
-        "value": "80"
       },
       {
         "icon": "",
