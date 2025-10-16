@@ -157,7 +157,7 @@
       {
         "icon": "",
         "title": "JavaScript/TypeScript",
-        "value": "40"
+        "value": "55"
       },
       {
         "icon": "",
@@ -167,28 +167,28 @@
       {
         "icon": "",
         "title": "React",
-        "value": "40"
+        "value": "35"
       },
       {
         "title": "Next.js",
-        "value": "50"
+        "value": "35"
       },
       {
         "title": "Linux",
         "value": "60"
       },
       {
-        "title": "Mysql",
+        "title": "PostgreSQL",
         "value": "55"
       },
       {
         "title": "Docker",
-        "value": "45"
+        "value": "70"
       },
       {
         "icon": "",
         "title": "Python",
-        "value": "75"
+        "value": "80"
       },
       {
         "icon": "",
