@@ -120,7 +120,7 @@
       "title": "ShiroRikkaのAI"
     },
     {
-      "url": "https://shirorikka-uptime-kuma.koyeb.app/status/all",
+      "url": "https://status.shirorikka.dpdns.org",
       "desc": "服务程序监控",
       "icon": "https://t.alcy.cc/tx",
       "title": "监控服务"
