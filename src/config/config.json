@@ -117,6 +117,12 @@
       "icon": "https://t.alcy.cc/tx",
       "title": "ShiroRikkaのStatus"
     },
+    {      
+      "url": "https://storage.shirorikka.dpdns.org",      
+      "desc": "个人云盘",      
+      "icon": "https://t.alcy.cc/tx",      
+      "title": "ShiroRikkaのStorage"    
+    },
     {
       "url": "https://lunatv.shirorikka.dpdns.org",
       "desc": "影视站点",
