@@ -101,7 +101,7 @@
   "sites": [
     {
       "url": "https://blog.shirorikka.dpdns.org",
-      "desc": "博客主页",
+      "desc": "个人博客",
       "icon": "https://www.loliapi.com/acg/pp/",
       "title": "ShiroRikkaの小窝"
     },
@@ -117,9 +117,9 @@
       "icon": "https://t.alcy.cc/tx",
       "title": "ShiroRikkaのStatus"
     },
-    {      
+    {
       "url": "https://storage.shirorikka.dpdns.org",      
-      "desc": "个人云盘",      
+      "desc": "个人云存储",      
       "icon": "https://www.loliapi.com/acg/pp/",      
       "title": "ShiroRikkaのStorage"    
     },
