@@ -124,12 +124,6 @@
       "title": "ShiroRikkaのStorage"    
     },
     {
-      "url": "https://openlist.shirorikka.dpdns.org",      
-      "desc": "文件中转站",      
-      "icon": "https://www.loliapi.com/acg/pp/",      
-      "title": "ShiroRikkaのOpenList"    
-    },
-    {
       "url": "https://lunatv.shirorikka.dpdns.org",
       "desc": "影视站点",
       "icon": "https://www.loliapi.com/acg/pp/",
@@ -146,6 +140,23 @@
       "desc": "个人主页",
       "icon": "https://www.loliapi.com/acg/pp/",
       "title": "ShiroRikkaの主页"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
+      "title": "杂七杂八",
+      "desc": "阿巴阿巴..."
+    },
+    {
+      "url": "https://openlist.shirorikka.dpdns.org",      
+      "desc": "文件中转站",      
+      "icon": "https://www.loliapi.com/acg/pp/",      
+      "title": "ShiroRikkaのOpenList"    
+    },
+    {
+      "url": "https://ceubcvia.ap-northeast-1.clawcloudrun.com",      
+      "desc": "BiliTool",      
+      "icon": "https://www.loliapi.com/acg/pp/",      
+      "title": "ShiroRikkaのBiliTool"    
     }
   ],
   "sitesConfig": {
