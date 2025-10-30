@@ -157,6 +157,12 @@
       "desc": "BiliTool",      
       "icon": "https://t.alcy.cc/tx",      
       "title": "ShiroRikkaのBiliTool"    
+    },
+    {      
+      "url": "https://uzkroxvgegru.ap-northeast-1.clawcloudrun.com",            
+      "desc": "kirara-ai",            
+      "icon": "https://avatars.githubusercontent.com/u/8984680?s=48&v=4",            
+      "title": "ShiroRikkaのKirara-AI"        
     }
   ],
   "sitesConfig": {
