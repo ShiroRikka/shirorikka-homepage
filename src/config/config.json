@@ -118,10 +118,10 @@
       "title": "ShiroRikkaのStatus"
     },
     {
-      "url": "https://storage.shirorikka.dpdns.org",      
-      "desc": "个人云存储",      
-      "icon": "https://avatars.githubusercontent.com/u/48898462?s=48&v=4",      
-      "title": "ShiroRikkaのStorage"    
+      "url": "https://openlist.shirorikka.dpdns.org",      
+      "desc": "支持多种存储的文件列表程序",      
+      "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",      
+      "title": "ShiroRikkaのOpenList"    
     },
     {
       "url": "https://tv.shirorikka.dpdns.org",
@@ -145,12 +145,6 @@
       "icon": "https://www.loliapi.com/acg/pp/",
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
-    },
-    {
-      "url": "https://openlist.shirorikka.dpdns.org",      
-      "desc": "文件中转站",      
-      "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",      
-      "title": "ShiroRikkaのOpenList"    
     },
     {
       "url": "https://ceubcvia.ap-northeast-1.clawcloudrun.com",      
