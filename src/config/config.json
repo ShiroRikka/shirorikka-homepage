@@ -100,43 +100,43 @@
   ],
   "sites": [
     {
-      "url": "https://blog.shirorikka.dpdns.org",
+      "url": "https://blog.shirorikka.qzz.io",
       "desc": "个人博客",
       "icon": "http://q.qlogo.cn/headimg_dl?dst_uin=2985772684&spec=640&img_type=jpg",
       "title": "ShiroRikkaの小窝"
     },
     {
-      "url": "https://aiapi.shirorikka.dpdns.org",
+      "url": "https://aiapi.shirorikka.qzz.io",
       "desc": "AIAPI",
       "icon": "https://avatars.githubusercontent.com/u/205075698?s=48&v=4",
       "title": "ShiroRikkaのAIAPI"
     },
     {
-      "url": "https://status.shirorikka.dpdns.org",
+      "url": "https://status.shirorikka.qzz.io",
       "desc": "服务程序监控",
       "icon": "https://uptime.akams.cn/upload/logo1.png?t=1750137658944",
       "title": "ShiroRikkaのStatus"
     },
     {
-      "url": "https://openlist.shirorikka.dpdns.org",      
+      "url": "https://openlist.shirorikka.qzz.io",      
       "desc": "支持多种存储的文件列表程序",      
       "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",      
       "title": "ShiroRikkaのOpenList"    
     },
     {
-      "url": "https://tv.shirorikka.dpdns.org",
+      "url": "https://tv.shirorikka.qzz.io",
       "desc": "影视站点",
       "icon": "https://avatars.githubusercontent.com/u/226115334?s=48&v=4",
       "title": "ShiroRikkaのTV"
     },
     {
-      "url": "https://fnos.shirorikka.dpdns.org",
+      "url": "https://fnos.shirorikka.qzz.io",
       "desc": "网络附加存储",
       "icon": "https://th.bing.com/th/id/ODF.XTpWsDYyp8j48OQ0OxB9bA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
       "title": "ShiroRikkaのfnOS"
     },
     {
-      "url": "https://shirorikka.dpdns.org",
+      "url": "https://shirorikka.qzz.io",
       "desc": "个人主页",
       "icon": "https://avatars.githubusercontent.com/u/94972433?s=48&v=4",
       "title": "ShiroRikkaの主页"
